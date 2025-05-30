@@ -1,0 +1,19 @@
+
+[
+  {
+    "name": "Tạp hóa Minh Hằng",
+    "type": "Tạp hóa",
+    "location": "S1.02",
+    "phone": "0912345678",
+    "zalo": "https://zalo.me/abc",
+    "image": "img/minhhang.jpg"
+  },
+  {
+    "name": "Giặt Là Anh Tú",
+    "type": "Giặt là",
+    "location": "S2.05",
+    "phone": "0909123456",
+    "zalo": "https://zalo.me/xyz",
+    "image": "img/giatla.jpg"
+  }
+]

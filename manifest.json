@@ -1,0 +1,9 @@
+{
+  "name": "Cư Dân Tiện Nghi",
+  "short_name": "Tiện Nghi",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Website dành cho cư dân Ocean Park",
+  "icons": []
+}
